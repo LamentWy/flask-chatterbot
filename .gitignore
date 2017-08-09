@@ -8,6 +8,7 @@
 .gitconfig
 .installed.cfg
 .idea/
+.idea
 bin/
 parts/
 venv/
