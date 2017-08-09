@@ -1,0 +1,23 @@
+# python
+*.py[cod]
+*.swp
+
+.DS_Store
+*.db
+# build
+.gitconfig
+.installed.cfg
+.idea/
+bin/
+parts/
+venv/
+build/
+dist/
+access.log*
+error.log*
+
+local_settings.py
+
+# test
+test_example.py
+test_settings.py
